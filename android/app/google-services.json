@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "434073677084",
+    "project_id": "atworkgo",
+    "storage_bucket": "atworkgo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434073677084:android:d32d8a1725b31fb2ecded9",
+        "android_client_info": {
+          "package_name": "com.example.atworkgo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcFZuHh96I0d8u4zwOWfIjY8CSQf-d9RU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434073677084:android:aaac8dc26ffb5f01ecded9",
+        "android_client_info": {
+          "package_name": "com.example.hr_management_and_geo_attendance_system_develop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcFZuHh96I0d8u4zwOWfIjY8CSQf-d9RU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

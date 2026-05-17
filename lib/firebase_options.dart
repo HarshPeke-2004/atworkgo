@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCq873pjdRLgXau0gHlA94vXP8W3ohGz94',
+    apiKey: '...',
     appId: '1:434073677084:web:47d2ec27cdf78d16ecded9',
     messagingSenderId: '434073677084',
     projectId: 'atworkgo',
@@ -50,7 +50,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAcFZuHh96I0d8u4zwOWfIjY8CSQf-d9RU',
+    apiKey: '...',
     appId: '1:434073677084:android:d32d8a1725b31fb2ecded9',
     messagingSenderId: '434073677084',
     projectId: 'atworkgo',
@@ -58,7 +58,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyB_aRm5eOaD1zD9xX_lPWpIppp0XyN5tA0',
+    apiKey: '...',
     appId: '1:434073677084:ios:b58194b386b89da8ecded9',
     messagingSenderId: '434073677084',
     projectId: 'atworkgo',
@@ -67,7 +67,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyB_aRm5eOaD1zD9xX_lPWpIppp0XyN5tA0',
+    apiKey: '...',
     appId: '1:434073677084:ios:b58194b386b89da8ecded9',
     messagingSenderId: '434073677084',
     projectId: 'atworkgo',
@@ -76,7 +76,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyCq873pjdRLgXau0gHlA94vXP8W3ohGz94',
+    apiKey: '...',
     appId: '1:434073677084:web:11c4067cde98614becded9',
     messagingSenderId: '434073677084',
     projectId: 'atworkgo',

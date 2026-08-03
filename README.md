@@ -1,4 +1,4 @@
-# 📍 AtWork - Geolocation-Based Attendance Tracking App
+# 📍 AtWorkGo - Geolocation-Based Attendance Tracking App
 
 ---
 
@@ -54,15 +54,15 @@ Key Features:
 
 | Login | Signup | Role Selection |
 |-------|--------|----------------|
-| ![Login](https://github.com/HarshPeke-2004/AtWork/blob/main/screenshots/LoginScreen.png) | ![SignUp](screenshots/SignUpScreen.png) | ![Home](screenshots/HomeScreen.png) |
+| ![Login](https://github.com/HarshPeke-2004/AtWork/blob/main/screenshots/LoginScreen.png) | ![SignUp](https://github.com/HarshPeke-2004/AtWork/blob/main/screenshots/SignUpScreen.png) | ![Home](https://github.com/HarshPeke-2004/AtWork/blob/main/screenshots/HomeScreen.png) |
 
 | Staff Home | Admin Home | Geo Fence |
 |------------|------------|-----------|
-| ![User Home](screenshots/UserHomeScreen.png) | ![Admin](screenshots/AdminScreen.png) | ![Geofence](screenshots/Geofence.png) |
+| ![User Home](https://github.com/HarshPeke-2004/AtWork/blob/main/screenshots/UserHomeScreen.png) | ![Admin](https://github.com/HarshPeke-2004/AtWork/blob/main/screenshots/AdminScreen.png) | ![Geofence](https://github.com/HarshPeke-2004/AtWork/blob/main/screenshots/Geofence.png) |
 
 | Add Employee |
 |--------------|
-| ![Add Employee](screenshots/AddEmployee.png) |
+| ![Add Employee](https://github.com/HarshPeke-2004/AtWork/blob/main/screenshots/AddEmployee.png) |
 
 ---
 

@@ -54,7 +54,7 @@ Key Features:
 
 | Login | Signup | Role Selection |
 |-------|--------|----------------|
-| ![Login](screenshots/LoginScreen.png) | ![SignUp](screenshots/SignUpScreen.png) | ![Home](screenshots/HomeScreen.png) |
+| ![Login](https://github.com/HarshPeke-2004/AtWork/blob/main/screenshots/LoginScreen.png) | ![SignUp](screenshots/SignUpScreen.png) | ![Home](screenshots/HomeScreen.png) |
 
 | Staff Home | Admin Home | Geo Fence |
 |------------|------------|-----------|
